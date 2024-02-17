@@ -4,11 +4,11 @@
 
 <br />
 
-**🟢 Semester**: Semester 2, 2024
+**🟢 Semester**: `Semester 2, 2024`
 
-**🟢 Instructor**: Ebrahim Elgazar
+**🟢 Instructor**: `Ebrahim Elgazar`
 
-**🟢 Time & Location**: Sun/Mon/Wed.
+**🟢 Time & Location**: `Sun/Mon/Wed.`
 
 ---
 
@@ -87,12 +87,13 @@ The course will follow a standard grading system, with components such as attend
 
 ## **Resources**
 
-Links to additional resources for OOP concepts, Python programming, and more will be provided.
+`Links to additional resources for OOP concepts, Python programming, and more will be provided.`
 
 ## Communication
 
-TBA
+`TBA`
 
 ## Acknowledgements
 
-TBA
+`TBA`
+
