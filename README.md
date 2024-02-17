@@ -61,6 +61,18 @@ The course will feature in-person labs, and several hands-on programming assignm
 
 </div>
 
+## 💫Leaderboard
+
+<div style="background-color:#f7f7f9; padding:10px; border-left: 5px solid #5292f7;">
+  
+| 🏆 Student Name | Rank |
+| --- | --- |
+| TBA | 🥇 |
+| TBA | 🥈 |
+| TBA | 🥉 |
+
+</div>
+
 ## Course Structure
 
 The course will include quizzes and programming assignments to reinforce the learning material and provide practical experience.
