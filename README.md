@@ -89,7 +89,8 @@ The course will follow a standard grading system, with components such as attend
 
 Python Recap (Feel free to x2 video speed): 
 * **Recommended**: From 1: 31 [Codezilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) 
-* From 1: 94 [Elzero Web School](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) 
+* From 1: 94 [Elzero Web School](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+* [W3Schools](https://www.w3schools.com/python/)
 
 ## Communication
 
